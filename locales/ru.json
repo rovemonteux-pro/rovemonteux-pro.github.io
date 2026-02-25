@@ -1,0 +1,62 @@
+{
+  "meta": { "lang": "ru", "dir": "ltr", "label": "Русский" },
+  "hero": {
+    "title": "Ров Монтё",
+    "tagline": "Музыка · Письмо · Искусство · Код",
+    "lede": "Независимый создатель, соединяющий звук, слова, визуалы и софт."
+  },
+  "sections": {
+    "linksTitle": "Меня можно найти в сети",
+    "cards": [
+      {
+        "id": "music",
+        "title": "Музыка",
+        "links": [
+          { "label": "Spotify", "href": "https://open.spotify.com/" },
+          { "label": "YouTube Music", "href": "https://music.youtube.com/" }
+        ]
+      },
+      {
+        "id": "video",
+        "title": "Видео",
+        "links": [
+          { "label": "YouTube", "href": "https://www.youtube.com/" }
+        ]
+      },
+      {
+        "id": "writing",
+        "title": "Письмо",
+        "links": [
+          { "label": "Medium", "href": "https://medium.com/" }
+        ]
+      },
+      {
+        "id": "art",
+        "title": "Искусство",
+        "links": [
+          { "label": "Behance", "href": "https://www.behance.net/" },
+          { "label": "Instagram", "href": "https://www.instagram.com/" }
+        ]
+      },
+      {
+        "id": "code",
+        "title": "Код",
+        "links": [
+          { "label": "GitHub", "href": "https://github.com/" }
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Контакт",
+        "links": [
+          { "label": "LinkedIn", "href": "https://www.linkedin.com/" }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "note": "Создано с намерением и любопытством."
+  },
+  "slugs": { "home": "glavnaya" },
+  "breadcrumbs": { "home": "Главная" }
+}

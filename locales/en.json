@@ -1,0 +1,62 @@
+{
+  "meta": { "lang": "en", "dir": "ltr", "label": "English" },
+  "hero": {
+    "title": "Rove Monteux",
+    "tagline": "Music · Writing · Art · Code",
+    "lede": "Independent creator connecting sound, words, visuals, and software."
+  },
+  "sections": {
+    "linksTitle": "Find me across the web",
+    "cards": [
+      {
+        "id": "music",
+        "title": "Music",
+        "links": [
+          { "label": "Spotify", "href": "https://open.spotify.com/" },
+          { "label": "YouTube Music", "href": "https://music.youtube.com/" }
+        ]
+      },
+      {
+        "id": "video",
+        "title": "Video",
+        "links": [
+          { "label": "YouTube", "href": "https://www.youtube.com/" }
+        ]
+      },
+      {
+        "id": "writing",
+        "title": "Writing",
+        "links": [
+          { "label": "Medium", "href": "https://medium.com/" }
+        ]
+      },
+      {
+        "id": "art",
+        "title": "Art",
+        "links": [
+          { "label": "Behance", "href": "https://www.behance.net/" },
+          { "label": "Instagram", "href": "https://www.instagram.com/" }
+        ]
+      },
+      {
+        "id": "code",
+        "title": "Code",
+        "links": [
+          { "label": "GitHub", "href": "https://github.com/" }
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Contact",
+        "links": [
+          { "label": "LinkedIn", "href": "https://www.linkedin.com/" }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "note": "Crafted with intention and curiosity."
+  },
+  "slugs": { "home": "home" },
+  "breadcrumbs": { "home": "Home" }
+}

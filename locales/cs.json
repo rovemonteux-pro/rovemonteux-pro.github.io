@@ -1,0 +1,62 @@
+{
+  "meta": { "lang": "cs", "dir": "ltr", "label": "Čeština" },
+  "hero": {
+    "title": "Rove Monteux",
+    "tagline": "Hudba · Psaní · Umění · Kód",
+    "lede": "Nezávislý tvůrce spojující zvuk, slova, vizuály a software."
+  },
+  "sections": {
+    "linksTitle": "Najdete mě na internetu",
+    "cards": [
+      {
+        "id": "music",
+        "title": "Hudba",
+        "links": [
+          { "label": "Spotify", "href": "https://open.spotify.com/" },
+          { "label": "YouTube Music", "href": "https://music.youtube.com/" }
+        ]
+      },
+      {
+        "id": "video",
+        "title": "Video",
+        "links": [
+          { "label": "YouTube", "href": "https://www.youtube.com/" }
+        ]
+      },
+      {
+        "id": "writing",
+        "title": "Psaní",
+        "links": [
+          { "label": "Medium", "href": "https://medium.com/" }
+        ]
+      },
+      {
+        "id": "art",
+        "title": "Umění",
+        "links": [
+          { "label": "Behance", "href": "https://www.behance.net/" },
+          { "label": "Instagram", "href": "https://www.instagram.com/" }
+        ]
+      },
+      {
+        "id": "code",
+        "title": "Kód",
+        "links": [
+          { "label": "GitHub", "href": "https://github.com/" }
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Kontakt",
+        "links": [
+          { "label": "LinkedIn", "href": "https://www.linkedin.com/" }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "note": "Tvořeno s úmyslem a zvídavostí."
+  },
+  "slugs": { "home": "domov" },
+  "breadcrumbs": { "home": "Domů" }
+}

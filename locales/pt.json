@@ -1,0 +1,62 @@
+{
+  "meta": { "lang": "pt", "dir": "ltr", "label": "Português" },
+  "hero": {
+    "title": "Rove Monteux",
+    "tagline": "Música · Escrita · Arte · Código",
+    "lede": "Criador independente conectando som, palavras, visuais e software."
+  },
+  "sections": {
+    "linksTitle": "Encontre-me pela web",
+    "cards": [
+      {
+        "id": "music",
+        "title": "Música",
+        "links": [
+          { "label": "Spotify", "href": "https://open.spotify.com/" },
+          { "label": "YouTube Music", "href": "https://music.youtube.com/" }
+        ]
+      },
+      {
+        "id": "video",
+        "title": "Vídeo",
+        "links": [
+          { "label": "YouTube", "href": "https://www.youtube.com/" }
+        ]
+      },
+      {
+        "id": "writing",
+        "title": "Escrita",
+        "links": [
+          { "label": "Medium", "href": "https://medium.com/" }
+        ]
+      },
+      {
+        "id": "art",
+        "title": "Arte",
+        "links": [
+          { "label": "Behance", "href": "https://www.behance.net/" },
+          { "label": "Instagram", "href": "https://www.instagram.com/" }
+        ]
+      },
+      {
+        "id": "code",
+        "title": "Código",
+        "links": [
+          { "label": "GitHub", "href": "https://github.com/" }
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Contato",
+        "links": [
+          { "label": "LinkedIn", "href": "https://www.linkedin.com/" }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "note": "Criado com intenção e curiosidade."
+  },
+  "slugs": { "home": "inicio" },
+  "breadcrumbs": { "home": "Início" }
+}
